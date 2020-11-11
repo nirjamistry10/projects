@@ -3,7 +3,7 @@ Business Analytics Projects
 
 These are all the business analytics projects/coding assignments I engaged in through my first semester in the MS in Business Analytics program. These projects 
 highlight my competencies in carrying out analyses and building prediction models using Decision Trees, k-Nearest Neighbors, and Logistic Regression. Furthermore, it also 
-includes analyses I ran to evaluate the said models and pick the models that perform the best. Additionally, I also work on some transformation and feature engineering to 
+includes analyses I ran to evaluate the said models and pick the models that perform the best. Additionally, I also engaged in transformation and feature engineering to 
 prepare my data for all the assignments. 
 
 The final project - Red Wine Quality Prediction Model - brings together all of these techniques I have learned through the semester to put it together and build a recommendation
