@@ -1,5 +1,5 @@
-# projects
-MSBA Data Science Projects
+# Projects
+Business Analytics Projects
 
 These are all the business analytics projects/coding assignments I engaged in through my first semester in the MS in Business Analytics program. These projects 
 highlight my competencies in carrying out analyses and building prediction models using Decision Trees, k-Nearest Neighbors, and Logistic Regression. Furthermore, it also 
